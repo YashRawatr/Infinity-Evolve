@@ -1,0 +1,24 @@
+{
+  "name": "futuristic-website",
+  "version": "1.0.0",
+  "description": "A futuristic black-themed website with immersive animations",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "lottie-web": "^5.12.2",
+    "split-type": "^0.3.4",
+    "vanilla-tilt": "^1.8.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.17",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.1.3"
+  }
+}
